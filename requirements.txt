@@ -1,3 +1,5 @@
 streamlit==1.42.0
 pyshorteners==1.0.1
 pandas==2.2.3
+streamlit
+pyshorteners
